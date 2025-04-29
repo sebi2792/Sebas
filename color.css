@@ -8,8 +8,12 @@ body{
 }
 
 .nombre {color: rgb(26, 26, 26);
-
+margin-top: 100px;
+margin-left: 150px;
+margin-right: 50px;
+margin-bottom: 250px;
+border-top: 8px rgb(15, 15, 220)dashed;
+border-right: 10px rgb(248, 3, 3)dotted;
+padding
 }
-
-
 
