@@ -12,8 +12,47 @@ margin-top: 100px;
 margin-left: 150px;
 margin-right: 50px;
 margin-bottom: 250px;
-border-top: 8px rgb(15, 15, 220)dashed;
-border-right: 10px rgb(248, 3, 3)dotted;
-padding
+border-top: 8px blue solid; 
+border-right: 10px rgb(248, 3, 3) dotted;
+border-bottom: 8px rgb(0, 0, 0) dotted;
+padding-top: 50px;
 }
+
+.Primerparrafo {
+    color: aqua ;
+    font-size: 36px ;
+    text-align: center;
+}
+
+.Segundoparrafo {
+    color: rgb(255, 0, 0);
+    font-size: 40px;
+    text-align: center;
+}
+
+.Tercerparrafo {
+color: rgb(87, 219, 146);
+font-size: 40px;
+text-align: center;
+}
+
+.Cuartoparrafo {
+    color: rgb(90, 205, 243);
+    font-size: 36px;
+    text-align: center;
+}
+
+.Quintoparrafo {
+    color: rgb(57, 2, 2);
+    font-size: 36px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
 
